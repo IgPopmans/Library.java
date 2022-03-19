@@ -1,0 +1,17 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "myFourthchar".(å–¢†øÿÿÿÿ
+L
+java:S1481"1Remove this unused "myFourthchar" local variable.(å–¢†øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…¥ôÄ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( çá˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á„…¬üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬®çÀ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“²È‹şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üòø„øÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ù®	
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãı§‰úÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(éñ‚ø
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ëğ”
+0
+java:S1220""Move this file to a named package.

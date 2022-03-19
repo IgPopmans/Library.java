@@ -1,0 +1,13 @@
+
+K
+java:S1854	"5Remove this useless assignment to local variable "a".(‚Ü³š
+<
+java:S1481	"&Remove this unused "a" local variable.(‚Ü³š
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹â¤Ž
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áþàÜûÿÿÿÿ
+O
+java:S2251"9"i" is incremented and will never reach "stop condition".(·½»Ø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¸‹×
+8
+java:S2189""Correct this loop's end condition.(·½»Ø

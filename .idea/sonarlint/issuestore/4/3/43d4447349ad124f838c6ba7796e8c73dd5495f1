@@ -1,0 +1,13 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "cur1".(¨­¥ãûÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "cur".(þÐ°²
+>
+java:S1481"(Remove this unused "cur" local variable.(þÐ°²
+D
+java:S1481")Remove this unused "cur1" local variable.(¨­¥ãûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆíá›üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÂƒöÎ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñ‰•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÌî„

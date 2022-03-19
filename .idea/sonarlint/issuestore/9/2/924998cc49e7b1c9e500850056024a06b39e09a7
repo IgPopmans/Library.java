@@ -1,0 +1,17 @@
+
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ
+m
+java:S1104"RMake number a static final constant or non-public and provide accessors if needed.(ŞÄù×ùÿÿÿÿ
+s
+java:S1104"XMake manufacturer a static final constant or non-public and provide accessors if needed.(¯ÃíÙûÿÿÿÿ
+l
+java:S1104	"QMake model a static final constant or non-public and provide accessors if needed.(¢úõşÿÿÿÿ
+m
+java:S1104
+"RMake wheels a static final constant or non-public and provide accessors if needed.(²Àğ½ÿÿÿÿÿ
+g
+java:S1104"QMake years a static final constant or non-public and provide accessors if needed.(âÔÑ¶
+j
+java:S1104"OMake run a static final constant or non-public and provide accessors if needed.(öõÂçüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÖÇD
