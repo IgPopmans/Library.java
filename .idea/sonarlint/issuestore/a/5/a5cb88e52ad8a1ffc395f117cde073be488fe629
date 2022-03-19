@@ -1,0 +1,10 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»›ž†üÿÿÿÿ
+<	java:S131
+""Add a default case to this switch.(èŠœ›ûÿÿÿÿ
+f
+java:S1301
+"KReplace this "switch" statement by "if" statements to increase readability.(èŠœ›ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íû‚“ûÿÿÿÿ

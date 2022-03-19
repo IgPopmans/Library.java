@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÃÌ¨üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÃÙÄıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù§“ÿÿÿÿÿ
+N
+java:S1172
+"3Remove this unused method parameter "happyBithday".(¨ÿ÷Ãşÿÿÿÿ
+2
+java:S1116"Remove this empty statement.(à²ªæ
+0
+java:S1220""Move this file to a named package.
+œ
+java:S2681"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(¸®Ã'

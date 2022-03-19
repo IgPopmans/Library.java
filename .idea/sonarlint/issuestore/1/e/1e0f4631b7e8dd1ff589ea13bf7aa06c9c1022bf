@@ -1,0 +1,10 @@
+
+m
+java:S1104"RMake weight a static final constant or non-public and provide accessors if needed.(©ì¹ûÿÿÿÿ
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ
+h
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(ñ½
+l
+java:S1104	"QMake speed a static final constant or non-public and provide accessors if needed.(¥ğ‡ğøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê†Ğ

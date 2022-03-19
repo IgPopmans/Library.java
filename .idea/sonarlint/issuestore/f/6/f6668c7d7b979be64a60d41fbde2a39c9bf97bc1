@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßýú³þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú§çæùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ŸÝËýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ðè‡ñûÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(Áæ•
+0
+java:S1220""Move this file to a named package.

@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ùèúÿÿÿÿ
+4
+java:S2119"Save and re-use this "Random".(–áÍÈ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ş»Ş
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(‚˜á®şÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(çº´şÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¬ãüÿÿÿÿ
