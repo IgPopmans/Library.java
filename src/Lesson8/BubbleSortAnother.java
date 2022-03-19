@@ -9,6 +9,7 @@ public class BubbleSortAnother {
         System.out.println("?????????????");
         System.out.println("````````````````");
         bubbleSort(array);
+        bubbleSort(array);
     }
 
     public static void bubbleSort(int[] array) {
